@@ -1,10 +1,20 @@
 # Application2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
-
+Application includes following features 
+- User authentication using Firebase Authentication.
+- Data persistence using localStorage.
+- Responsive design using Angular Material and TailwindCSS.
+- Data display with search, filter, and pagination.
+- Add new workout functionality.
+- Unit tests for components and services.
+- 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Additional
+Run `ng add @angular/material` for angular material design.
 
 ## Code scaffolding
 
